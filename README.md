@@ -27,5 +27,6 @@ Minha jornada de aprendizado no campo do gerenciamento de dados em larga escala!
 |Módulo|Tema|Link|
 |--------|--------|-------|
 Princípios de Software e Desenvolvimento Colaborativo |Versionamento de Códigos Git e GitHub | [Clique Aqui!]()|
+Princípios de Software e Desenvolvimento Colaborativo |Projetos e Gestão de Portifólio | [Clique Aqui!]()|
 
 
