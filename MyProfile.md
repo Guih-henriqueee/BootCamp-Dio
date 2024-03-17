@@ -14,7 +14,7 @@ Estudante e entusiasta de sistemas, com foco de se tornar um *FullStack Develope
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=)]()
-[![SAP Bussines One](https://img.shields.io/badge/SAPB1-000?style=for-the-badge&logo=SAP&logoColor=fff)]()
+[![SAP Bussines One](https://img.shields.io/badge/SAP%20Bussines%20One-000?style=for-the-badge&logo=SAP&logoColor=fff)]()
 [![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=excel&logoColor=)]() 
 [![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=SQL&logoColor=)]()
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=)](https://git-scm.com/doc)
