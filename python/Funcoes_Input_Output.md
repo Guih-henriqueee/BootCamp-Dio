@@ -1,6 +1,6 @@
 # Funções de Entrada e Saída
 
-# Função de Entrada
+## Função de Entrada
 ### *Input()*
 > Função que permite a entrada de valores e atribuição de valores a variaves ou constantes
 
@@ -17,7 +17,7 @@ print(nome, sobrenome)
 ```
 > Lógicamente o exemplo acima onde temos a entrada dos valores serão preenchidos ao rodar o scripting que lhe solicitará o preenchimento do nome e sobrenome.
 
-# Função de Saída
+## Função de Saída
 ### *Print()*
 > Função que permite a exibição em tela
 
